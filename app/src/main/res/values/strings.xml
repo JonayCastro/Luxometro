@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Luxometro</string>
+    <string name="valorInicial">0</string>
+    <string name="msnErrorSensLux">El sensor de luz no se encuentra</string>
+
+    <string name="etiquetaLux">LÚMENES</string>
+
+</resources>
